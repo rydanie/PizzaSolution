@@ -1,0 +1,3 @@
+﻿  Pizza.cpp
+c:\users\rgdst102\desktop\pizzasolution\pizzasolution\pizza.cpp(13): warning C4101: 'totalItems': unreferenced local variable
+  PizzaSolution.vcxproj -> C:\Users\rgdst102\Desktop\PizzaSolution\Debug\PizzaSolution.exe
